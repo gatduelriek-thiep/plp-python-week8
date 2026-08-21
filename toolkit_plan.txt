@@ -1,0 +1,8 @@
+In the toolkit.py I use the concept we had covered before starting from foundation of Python
+Then data types like boolean, strings and data structure called list
+After that I move into concept of automation to allow computer to automate common and repetitive task in my project I use while loop
+After that I use print and input to make my project interactiveIncase if you want to give me a job as an instructor I know how to work well with other data structures like dictionary, sets and tuples
+I also know how to define and call the functions and pass some parameters and arguments to the functions as well as how to return information
+from return statementI also have some working projects from Python libraries like pandas, numpy, matplotlib, beautifulsoup, regex, and selenium
+I am happy with this PLP project because it fosters hands-on practices which make someone do a lot of research in the evolving world of
+Computer programming
