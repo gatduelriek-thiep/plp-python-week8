@@ -1,0 +1,17 @@
+Toolkit Plan
+
+Tools:
+1. Number Guessing Game — The computer picks a random number and the player tries to guess it.
+2. To-Do List — Lets the user add, remove, and view tasks.
+3. Simple Calculator — Performs addition, subtraction, multiplication, and division.
+
+Menu Text:
+1. Play Number Guessing Game
+2. Manage To-Do List
+3. Use Simple Calculator
+4. Quit
+
+Concepts:
+- Number Guessing Game: loop, conditional, f-string
+- To-Do List: list, loop, conditional, f-string
+- Simple Calculator: input, conditional, f-string
