@@ -2,6 +2,7 @@ import random
 # Print the title of your project
 print("Welcome to your Toolkit Game engineer by Gatduel")
 # This is a game title
+tasks = []
 while True:
     print("\n --Toolkit Menu--")
     print("1. Play a number guessing game")
@@ -30,7 +31,7 @@ while True:
         print("3. Remove a task")
 
         todo_choice = input("Choose an option (1-3): ")
-        tasks = []
+        
         if todo_choice == "1":
             if not tasks:
                 print("📭 No tasks yet.")
